@@ -1,0 +1,108 @@
+.first-section{
+    padding: 10px 10px 10px 50px;
+    background-color: #F0FFF0;
+    width: 1440px ;
+}
+.images{
+   height: 59px;
+   width: 198.07;
+}
+.new-button{
+    background-color: #21B573;
+    color: white;
+   border-style: none;
+    border-radius: 15px;
+    border-color: #21B573;
+}
+.text-item{
+    font-family: 'Poppins', sans-serif;
+}
+h4{
+    color: #FD511A;
+    font-family: 'Poppins', sans-serif;
+}
+p{
+    color: #6C6B6B;
+    font-family: 'Poppins', sans-serif;
+}
+.first-color{
+    color: #21B573;
+}
+.get-started{
+    background-color: #21B573;
+    border-radius: 33px;
+    border-color: #21B573;
+    padding: 5px 20px 5px 20px;
+    border-style: none;
+}
+.imagesss{
+   height: 346px;
+   width: 554px;
+}
+.imagess img{
+    height: 85px;
+    width: 66px;
+    align-self: center;
+}
+.second-item{
+    padding: 100px 200px 100px 200px;
+}
+.third-item:hover{
+    background-color: #E5E5E5;
+}
+.backgroud-1{
+    background-color: #F0FFF0;
+    border-radius: 20px;
+    padding: 100px 20px 20px 20px;
+}
+.middle-point{
+    width: 1463px;
+    padding: 100px;
+}
+.card-img-top{
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+.calendar{
+    height:24px;
+    width: 24px;
+}
+.card{
+    padding: 10px;
+}
+.card-deck{
+    border-radius: 10px;
+}
+.card-footer{
+    padding: 5px 0px;
+    background-color: white;
+    border-top: 0px;
+}
+.middle-section{
+    padding: 100px;
+}
+.middle-images{
+    height: 120px;
+    width: 120px;
+}
+.last-box{
+    box-sizing: border-box;
+    height: 369px;
+    width: 1440px;
+    background-color:#282531;
+    padding: 100px;
+    color: #CDCDCD;
+    padding-left: 200px;
+}
+.last-footer{
+    padding-top: 50px;
+    color: gray;
+    padding-bottom: 0px;
+}
+.card-2{
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+.box-last{
+    padding-left: 50px;
+}
