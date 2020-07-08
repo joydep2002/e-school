@@ -1,7 +1,7 @@
 .first-section{
     padding: 10px 10px 10px 50px;
     background-color: #F0FFF0;
-    width: 1440px ;
+    width: 1440px;
 }
 .images{
    height: 59px;
@@ -13,6 +13,7 @@
    border-style: none;
     border-radius: 15px;
     border-color: #21B573;
+    padding: 5px 10px 5px 10px;
 }
 .text-item{
     font-family: 'Poppins', sans-serif;
